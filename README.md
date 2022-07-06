@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
-
 In this App I use:
 
 Cloud Firestore, Cloud Messaging, Firebase Storage
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
